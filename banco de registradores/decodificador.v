@@ -1,4 +1,5 @@
 module decodificador(entrada, saida);
+//Lorena Gomes de Oliveira Cabral
 
 	input [2:0] entrada;
 	output reg [7:0] saida;
