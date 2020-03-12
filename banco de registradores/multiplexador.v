@@ -1,4 +1,5 @@
 module multiplexador(entrada0, entrada1, entrada2, entrada3, entrada4, entrada5, entrada6, entrada7, controle, saida);
+//Lorena Gomes de Oliveira Cabral
 	
 	input [15:0] entrada0,entrada1,entrada2,entrada3,entrada4,entrada5,entrada6,entrada7;
 	input [2:0] controle;
