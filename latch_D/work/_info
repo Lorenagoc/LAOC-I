@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\flip_flop_D
+vlatch_D
+!i10b 1
+!s100 >^aUTRzS<KUON5RLOj9S[3
+I[RfAT1VeYTV<hD<H<QFDV1
+VNFUFWfEjWTaR`[MQR3:N10
+Z1 dC:\altera\13.0sp1\latch_D
+w1583449327
+Z2 8C:/altera/13.0sp1/latch_D/latch_D.v
+Z3 FC:/altera/13.0sp1/latch_D/latch_D.v
+L0 1
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1583449332.878000
+!s107 C:/altera/13.0sp1/latch_D/latch_D.v|
+Z5 !s90 -reportprogress|300|-work|work|C:/altera/13.0sp1/latch_D/latch_D.v|
+!s101 -O0
+Z6 o-work work -O0
+Z7 nlatch_@d
