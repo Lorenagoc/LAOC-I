@@ -1,0 +1,15 @@
+C:/altera/13.0sp1/B_14/B_14_I.v {1 {vlog -work work C:/altera/13.0sp1/B_14/B_14_I.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FUNC1
+
+Top level modules:
+	FUNC1
+
+} {} {}} C:/altera/13.0sp1/B_14/B_14_II.v {1 {vlog -work work {C:\altera\13.0sp1\B_14\B_14_II.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FUNC2
+
+Top level modules:
+	FUNC2
+
+} {} {}}

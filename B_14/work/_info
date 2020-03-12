@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vFUNC1
+Z1 IJ6S9]lAf^zfc`iGhk7Gha0
+Z2 VBOC;jT^oO3Z<KZAniBdR;2
+Z3 dC:\altera\13.0sp1\B_14
+Z4 w1583459742
+Z5 8C:/altera/13.0sp1/B_14/B_14_I.v
+Z6 FC:/altera/13.0sp1/B_14/B_14_I.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@f@u@n@c1
+Z10 !s100 mUb0YlGA9H7:Z>F_;=aLb0
+Z11 !s108 1583459745.935000
+Z12 !s107 C:/altera/13.0sp1/B_14/B_14_I.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/altera/13.0sp1/B_14/B_14_I.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFUNC2
+!i10b 1
+!s100 mb8Njh[dOkUZNiOj>Vcdh1
+I@678<=b8ge>h8a<@nAWdY2
+Z14 V9:AeU`HV]^zMa:HEhcm5[3
+R3
+w1583460328
+8C:\altera\13.0sp1\B_14\B_14_II.v
+FC:\altera\13.0sp1\B_14\B_14_II.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1583460333.050000
+!s107 C:\altera\13.0sp1\B_14\B_14_II.v|
+!s90 -reportprogress|300|-work|work|C:\altera\13.0sp1\B_14\B_14_II.v|
+!s101 -O0
+R8
+Z15 n@f@u@n@c2
