@@ -1,4 +1,5 @@
 module registrador(dado, clock, habilita_escrita, saida);
+//Lorena Gomes de Oliveira Cabral
 
 	input [15:0] dado;
 	input clock;
