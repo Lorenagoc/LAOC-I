@@ -1,4 +1,5 @@
 module banco_reg(Read1, Read2, WriteReg, WriteData, RegWrite, Data1, Data2, clock);
+//Lorena Gomes de Oliveira Cabral
 
 	input [2:0] Read1, Read2, WriteReg;
 	input [15:0] WriteData;
