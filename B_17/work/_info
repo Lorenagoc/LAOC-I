@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\B_15
+vacumulador
+!i10b 1
+!s100 =Y4<UGnR9:]FffZCYkjne2
+I6RF3c<iS4bG_k9EB;X_Ye0
+Z1 VlXiZI34J@Ujc<Ml2V50YU1
+Z2 dC:\altera\13.0sp1\B_17
+w1583461577
+Z3 8C:\altera\13.0sp1\B_17\B_17.v
+Z4 FC:\altera\13.0sp1\B_17\B_17.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1583461580.476000
+!s107 C:\altera\13.0sp1\B_17\B_17.v|
+Z6 !s90 -reportprogress|300|-work|work|C:\altera\13.0sp1\B_17\B_17.v|
+!s101 -O0
+Z7 o-work work -O0
