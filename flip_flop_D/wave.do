@@ -1,11 +1,10 @@
 onerror {resume}
 quietly WaveActivateNextPane {} 0
-add wave -noupdate -color Gold -format Literal -radix binary /flip_flop_D/D
-add wave -noupdate -format Literal -radix binary /flip_flop_D/clk
-add wave -noupdate -color Pink -format Literal -radix binary /flip_flop_D/Q
-add wave -noupdate -color {Medium Spring Green} -format Literal -radix binary /flip_flop_D/Q_barrado
+add wave -noupdate -color Red -format Literal -radix binary /flip_flop_D/D
+add wave -noupdate -color Pink -format Literal -radix binary /flip_flop_D/clk
+add wave -noupdate -color Cyan -format Literal -radix binary /flip_flop_D/Q
 TreeUpdate [SetDefaultTree]
-WaveRestoreCursors {{Cursor 1} {195 ps} 0}
+WaveRestoreCursors {{Cursor 1} {216 ps} 0}
 quietly wave cursor active 1
 configure wave -namecolwidth 150
 configure wave -valuecolwidth 100
@@ -21,10 +20,11 @@ configure wave -griddelta 40
 configure wave -timeline 0
 configure wave -timelineunits ps
 update
-WaveRestoreZoom {0 ps} {984 ps}
+WaveRestoreZoom {0 ps} {1088 ps}
 view wave 
 wave clipboard store
 wave create -driver freeze -pattern counter -startvalue 0 -endvalue 1 -type Range -direction Up -period 50ps -step 1 -repeat forever -starttime 0ps -endtime 1000ps sim:/flip_flop_D/D 
-wave create -driver freeze -pattern clock -initialvalue z -period 100ps -dutycycle 50 -starttime 0ps -endtime 1000ps sim:/flip_flop_D/clk 
+wave create -driver freeze -pattern clock -initialvalue HiZ -period 100ps -dutycycle 50 -starttime 0ps -endtime 1000ps sim:/flip_flop_D/clk 
+wave create -driver freeze -pattern clock -initialvalue HiZ -period 150ps -dutycycle 50 -starttime 0ps -endtime 1000ps sim:/flip_flop_D/clk 
 WaveCollapseAll -1
 wave clipboard restore
