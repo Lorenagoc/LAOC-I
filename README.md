@@ -30,7 +30,7 @@ O arquivo ficara no canto superior esquerdo da tela.
 
 # Para simular
 
-Antes de simular o projeto, é necessário compilar. Clique com o botão direito sobre o arquivo, selecione *Compile* -> *Compile Selected*. O resultado surgira no campo *Transcript* no canto inferior esquerdo.
+Antes de simular o projeto, é necessário compilar. Clique com o botão direito sobre o arquivo, selecione *Compile* -> *Compile Selected*. O resultado surgirá no campo *Transcript* no canto inferior esquerdo.
 
 ![6](https://user-images.githubusercontent.com/42523044/76577608-b73f1400-64a4-11ea-84b4-853b9c3635dd.png)
 
