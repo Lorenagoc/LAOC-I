@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vbanco_reg
+Z1 !s100 k=[mdWmDKE@Z::3=EYUIX1
+Z2 ITjgh>;USaT^mTSMSinTM<3
+Z3 V0on^1eBa60FX?fdVG8P=T3
+Z4 dC:\altera\13.0sp1\banco_registradores
+Z5 w1584144966
+Z6 8C:\altera\13.0sp1\banco_registradores\banco_registradores.v
+Z7 FC:\altera\13.0sp1\banco_registradores\banco_registradores.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:\altera\13.0sp1\banco_registradores\banco_registradores.v|
+Z10 o-work work -O0
+Z11 !s108 1584145743.380000
+Z12 !s107 C:\altera\13.0sp1\banco_registradores\banco_registradores.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbanco_registradores
+!i10b 1
+!s100 mf`A[L9ALCSm^;Mjo5UMA3
+IkZQf9ofR7WzPY5<8YCEPo2
+Z13 VkNLV1^3bOX;@i;f0z<_E50
+R4
+Z14 w1584145757
+8C:/altera/13.0sp1/banco_registradores/banco_registradores.v
+FC:/altera/13.0sp1/banco_registradores/banco_registradores.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1584146774.441000
+!s107 C:/altera/13.0sp1/banco_registradores/banco_registradores.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.0sp1/banco_registradores/banco_registradores.v|
+!s101 -O0
+R10
+vdecodificador
+Z15 IRKKW0L2id?GPQelLd>fbC2
+Z16 VM:C@OO9Tj;1M7:1o?Ed^z1
+R4
+Z17 w1584143892
+Z18 8C:/altera/13.0sp1/banco_registradores/decodificador.v
+Z19 FC:/altera/13.0sp1/banco_registradores/decodificador.v
+L0 1
+R8
+r1
+31
+R10
+Z20 !s100 OSc>OUeOF;WLehiSHIMNz3
+Z21 !s108 1584146773.628000
+Z22 !s107 C:/altera/13.0sp1/banco_registradores/decodificador.v|
+Z23 !s90 -reportprogress|300|-work|work|C:/altera/13.0sp1/banco_registradores/decodificador.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplexador
+Z24 I@KNMYJe6NoRh9mE<zoX?R1
+Z25 V8o=jmc7JPOQ`IDaE@3S?S3
+R4
+Z26 w1584143875
+Z27 8C:/altera/13.0sp1/banco_registradores/multiplexador.v
+Z28 FC:/altera/13.0sp1/banco_registradores/multiplexador.v
+L0 1
+R8
+r1
+31
+R10
+Z29 !s100 k5<giU43bonZ^i4kg@7;B1
+Z30 !s108 1584146773.363000
+Z31 !s107 C:/altera/13.0sp1/banco_registradores/multiplexador.v|
+Z32 !s90 -reportprogress|300|-work|work|C:/altera/13.0sp1/banco_registradores/multiplexador.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregistrador
+Z33 IHW=dojWUdYdIB7UMEjiKZ1
+Z34 VRO;U=oc=kMN:2INeIK3eg0
+R4
+Z35 w1584143860
+Z36 8C:/altera/13.0sp1/banco_registradores/registrador.v
+Z37 FC:/altera/13.0sp1/banco_registradores/registrador.v
+L0 1
+R8
+r1
+31
+R10
+Z38 !s100 E^BeGQ?j59cBCN[P]oB1I0
+Z39 !s108 1584146773.894000
+Z40 !s107 C:/altera/13.0sp1/banco_registradores/registrador.v|
+Z41 !s90 -reportprogress|300|-work|work|C:/altera/13.0sp1/banco_registradores/registrador.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsomador_subtrator
+Z42 I7828]i`25>Sza3azGD;111
+Z43 VLRAQPh:0h@BRadQZ8[i:01
+R4
+Z44 w1584143846
+Z45 8C:/altera/13.0sp1/banco_registradores/somador_subtrator.v
+Z46 FC:/altera/13.0sp1/banco_registradores/somador_subtrator.v
+L0 1
+R8
+r1
+31
+R10
+!i10b 1
+Z47 !s100 6J7Om]C4D>_n:5gCg@g7P0
+!s85 0
+Z48 !s108 1584146774.191000
+Z49 !s107 C:/altera/13.0sp1/banco_registradores/somador_subtrator.v|
+Z50 !s90 -reportprogress|300|-work|work|C:/altera/13.0sp1/banco_registradores/somador_subtrator.v|
+!s101 -O0
