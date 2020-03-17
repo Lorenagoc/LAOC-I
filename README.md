@@ -1,5 +1,5 @@
 # LAOC-I
-Repositório dedicado à disciplina de Arquitetura e Organização de Computadores I ministrada pelo professor Jefferson Figueiredo
+Repositório dedicado à disciplina de Laboratório de Arquitetura e Organização de Computadores I ministrada pelo professor Jefferson Figueiredo
 
 **ModelSim-Altera Edition 13.0sp1**
 
